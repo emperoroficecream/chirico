@@ -2,6 +2,6 @@
 
 Recreations of Chirico's paitings in three.js. 
 
-####TODO:
+#### TODO:
 * Use ES6 import for three.js modules
 
